@@ -1,3 +1,6 @@
+// Learn C++ with Codecademy
+// Project: Quadratic ecuations
+
 #include <iostream>
 #include <cmath>
 
