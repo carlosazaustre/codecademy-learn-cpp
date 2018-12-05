@@ -23,3 +23,6 @@ int main()
   dollars = p * 0.049 + q * 0.13 + c * 0.11;
   
   std::cout << "US Dollars = $" << dollars << "\n";
+
+  return 0;
+}
